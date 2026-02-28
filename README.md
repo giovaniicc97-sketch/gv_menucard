@@ -24,3 +24,8 @@ gegen ihre eigenen aus. Beachten sie dabei folgende Dinge:
 - Format .jpg
 - maximal 5 Bilder
 - Name: {Seite1.jpg, Seite2.jpg, Seite3.jpg, Seite4.jpg, Seite5.jpg}
+
+Bei Verbesserungsvorschlägen oder Fehlern kontaktieren Sie mich auf Discord:
+      ````
+      giovannicc97
+      ````
