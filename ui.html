@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+        <div class="book-wrapper">
+            <button class="nav-button left" onclick="changePage(-1)">&#10094;</button>
+            
+            <div class="book">
+                <div class="page left-page" id="left-page"></div>
+                <div class="page right-page" id="right-page"></div>
+            </div>
+
+            <button class="nav-button right" onclick="changePage(1)">&#10095;</button>
+        </div>
+        <div class="footer">Drücke ESC zum Schließen</div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
